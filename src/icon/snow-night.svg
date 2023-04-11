@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Шар 2" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68.06 73.543">
+  <defs>
+    <linearGradient id="e" data-name="New Gradient Swatch copy" x1="43.676" y1="24.383" x2="59.277" y2="8.782" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset="1" stop-color="#00bdf2"/>
+    </linearGradient>
+    <linearGradient id="f" data-name="New Gradient Swatch copy 2" x1="0" y1="26.758" x2="56.667" y2="26.758" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d0e8f8"/>
+      <stop offset="1" stop-color="#e1eef9"/>
+    </linearGradient>
+    <linearGradient id="g" data-name="New Gradient Swatch copy 2" x1="11.135" y1="55.26" x2="15.135" y2="55.26" href="#f"/>
+    <linearGradient id="h" data-name="New Gradient Swatch copy 2" x1="21.135" y1="55.26" x2="25.135" y2="55.26" href="#f"/>
+    <linearGradient id="i" data-name="New Gradient Swatch copy 2" x1="31.135" y1="55.26" x2="35.135" y2="55.26" href="#f"/>
+    <linearGradient id="j" data-name="New Gradient Swatch copy 2" x1="41.135" y1="55.26" x2="45.135" y2="55.26" href="#f"/>
+    <linearGradient id="k" data-name="New Gradient Swatch copy 2" x1="11.135" y1="71.543" x2="15.135" y2="71.543" href="#f"/>
+    <linearGradient id="l" data-name="New Gradient Swatch copy 2" x1="21.135" y1="71.543" x2="25.135" y2="71.543" href="#f"/>
+    <linearGradient id="m" data-name="New Gradient Swatch copy 2" x1="31.135" y1="71.543" x2="35.135" y2="71.543" href="#f"/>
+    <linearGradient id="n" data-name="New Gradient Swatch copy 2" x1="41.135" y1="71.543" x2="45.135" y2="71.543" href="#f"/>
+    <linearGradient id="o" data-name="New Gradient Swatch copy 2" x1="6.135" y1="63.543" x2="10.135" y2="63.543" href="#f"/>
+    <linearGradient id="p" data-name="New Gradient Swatch copy 2" x1="16.135" y1="63.543" x2="20.135" y2="63.543" href="#f"/>
+    <linearGradient id="q" data-name="New Gradient Swatch copy 2" x1="26.135" y1="63.543" x2="30.135" y2="63.543" href="#f"/>
+    <linearGradient id="r" data-name="New Gradient Swatch copy 2" x1="36.135" y1="63.543" x2="40.135" y2="63.543" href="#f"/>
+  </defs>
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="Snow Night">
+      <path d="M54,28.666c-8.054,0-14.606-6.552-14.606-14.606C39.393,7.586,43.741,1.816,49.967,.029c.271-.076,.556-.002,.752,.195,.197,.197,.271,.485,.194,.752-.342,1.194-.516,2.409-.516,3.611,0,7.21,5.866,13.076,13.076,13.076,1.2,0,2.415-.174,3.611-.517,.268-.075,.555-.001,.752,.195,.197,.197,.271,.485,.194,.752-1.787,6.226-7.557,10.574-14.03,10.574Z" style={{fill: "url(#e)"}}/>
+      <path d="M46.003,44.977c5.889,0,10.664-4.774,10.664-10.664s-4.774-10.664-10.664-10.664c-.037,0-.072,.005-.109,.005-.949-8.504-8.158-15.117-16.915-15.117-6.916,0-12.864,4.126-15.528,10.049-.084-.002-.168-.006-.252-.006C5.909,18.581,0,24.49,0,31.779s5.909,13.198,13.198,13.198" style={{fill: "url(#f)"}}/>
+      <path d="M60.22,44.977c3.698,0,6.696-2.998,6.696-6.696s-2.998-6.696-6.696-6.696c-.023,0-.045,.003-.068,.003-.596-5.34-5.123-9.492-10.622-9.492-4.343,0-8.078,2.591-9.751,6.31-.053,0-.105-.004-.158-.004-4.577,0-8.288,3.711-8.288,8.288s3.711,8.288,8.288,8.288" style={{fill: "#fff"}}/>
+      <circle cx="13.135" cy="55.26" r="2" style={{fill: "url(#g)"}}/>
+      <circle cx="23.135" cy="55.26" r="2" style={{fill: "url(#h)"}}/>
+      <circle cx="33.135" cy="55.26" r="2" style={{fill: "url(#i)"}}/>
+      <circle cx="43.135" cy="55.26" r="2" style={{fill: "url(#j)"}}/>
+      <circle cx="13.135" cy="71.543" r="2" style={{fill: "url(#k)"}}/>
+      <circle cx="23.135" cy="71.543" r="2" style={{fill: "url(#l)"}}/>
+      <circle cx="33.135" cy="71.543" r="2" style={{fill: "url(#m)"}}/>
+      <circle cx="43.135" cy="71.543" r="2" style={{fill: "url(#n)"}}/>
+      <circle cx="8.135" cy="63.543" r="2" style={{fill: "url(#o)"}}/>
+      <circle cx="18.135" cy="63.543" r="2" style={{fill: "url(#p)"}}/>
+      <circle cx="28.135" cy="63.543" r="2" style={{fill: "url(#q)"}}/>
+      <circle cx="38.135" cy="63.543" r="2" style={{fill: "url(#r)"}}/>
+    </g>
+  </g>
+</svg>
